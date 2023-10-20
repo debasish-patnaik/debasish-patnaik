@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working as a Software Engineer and currently in love with the magic produced by my keyboard.
+- 🔭 I’m working as a Software Engineer and currently in love with the magic produced by the clicks on a keyboard.
 - 🌱 Exploring macroeconomics and innovations in the field of science and technology.
 - ⚡ In my free time I play RPG games and try to catch some football matches.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/debasish--patnaik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasish-patnaik)
