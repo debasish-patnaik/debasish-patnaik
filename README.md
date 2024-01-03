@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a software engineer and am passionate about all things technology.
+- 👨‍💻 I am currently working as a Software Engineer.
+- 🤖 Would love to discuss anything and everything about technology.
 - 🌱 Exploring macroeconomics and innovations in the field of science and technology.
 - ⚡ In my free time I play RPG games and try to catch some football matches.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/debasish--patnaik-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasish-patnaik)
